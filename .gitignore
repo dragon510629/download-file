@@ -95,4 +95,3 @@ migrate.*.js
 
 #test
 packages/functions/src/commands/test/*
-.vercel
